@@ -14,9 +14,9 @@
 
 ## About me
 
-I'm a second-year IT student focused on web and backend development. I study programming, databases and web application architecture, and I'm steadily moving toward backend work with C#, .NET and SQL.
+I'm a third-year IT student focused on web and backend development. I study programming, databases and web application architecture, and I'm steadily moving toward backend work with C#, .NET and SQL.
 
-- 🎓 Second-year IT student
+- 🎓 Third-year IT student
 - 🔭 Building web projects with PHP, MySQL, HTML, CSS and JavaScript
 - 🌱 Currently learning C#, ASP.NET Core Web API and Entity Framework Core
 - 🎯 Goal: become a professional backend developer who designs databases, APIs and server-side logic
