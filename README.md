@@ -1,66 +1,44 @@
-<h1 align="center">Hi, I'm Murod 👋</h1>
+# Hi, I'm Temurzoda Murod 👋
 
-<p align="center">
-  <b>IT student · Web developer · Aspiring backend developer (C# / .NET)</b>
-</p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=2F81F6&center=true&vCenter=true&width=700&lines=Junior+DevOps+Engineer+(in+training);Linux+%7C+Networking+%7C+Zabbix+%7C+Docker+(learning))
 
-<p align="center">
-  <a href="https://t.me/temurzadee"><img src="https://img.shields.io/badge/Telegram-@temurzadee-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="mailto:tmrzdmurod@gmail.com"><img src="https://img.shields.io/badge/Email-tmrzdmurod@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/tmrzdmurod"><img src="https://img.shields.io/badge/GitHub-tmrzdmurod-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
-</p>
+## About Me
 
----
+Third-year IT student at Khujand Polytechnic Institute, Tajikistan. I am training to become a junior DevOps engineer, with a focus on Linux, networking, monitoring and containers.
 
-## About me
+Before moving toward infrastructure, I built web projects with HTML, CSS, JavaScript, PHP and MySQL. That background helps me understand what runs on the servers I monitor and manage.
 
-I'm a third-year IT student focused on web and backend development. I study programming, databases and web application architecture, and I'm steadily moving toward backend work with C#, .NET and SQL.
+## Featured Projects
 
-- 🎓 Third-year IT student
-- 🔭 Building web projects with PHP, MySQL, HTML, CSS and JavaScript
-- 🌱 Currently learning C#, ASP.NET Core Web API and Entity Framework Core
-- 🎯 Goal: become a professional backend developer who designs databases, APIs and server-side logic
-- 🤝 Open to internships, junior developer roles and collaboration
+| **Zabbix Monitoring Lab** | **Solar Panel Installation Website** |
+|---|---|
+| Monitoring setup for a Windows host on Ubuntu (WSL): disk and internet-availability checks, triggers, a dashboard with graphs, Telegram alerts and an hourly report script (cron + Zabbix API). | Company website built with HTML, CSS and JavaScript, version-controlled with Git. |
+| **Stack:** Zabbix, Ubuntu, cron, Telegram Bot API | **Stack:** HTML5, CSS3, JavaScript, Git |
+| [Repository link] | [Repository link] |
 
-## Tech stack
+**Electronic Library (department project)**: PHP and MySQL web application. [Repository link]
 
-**Working with**
+## Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode" alt="HTML5, CSS3, JavaScript, PHP, MySQL, Git, GitHub, VS Code">
-</p>
+![Skills](https://skillicons.dev/icons?i=linux,git,github,mysql,php,js,html,css,vscode)
 
-| Area | Skills |
-| --- | --- |
-| Frontend | HTML5, CSS3, JavaScript (basics), responsive layout, UI development |
-| Backend | PHP, client-server architecture fundamentals |
-| Databases | SQL, MySQL, database design |
-| Tools | Git, GitHub, VS Code, local web servers and dev environments |
+**Learning now:** Linux (daily terminal practice), networking fundamentals (Cisco Networking Academy, final score 79), Zabbix, Grafana, Docker [update after confirming your level]
 
-**Currently learning**
+## GitHub Stats
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,vue,docker" alt="C#, .NET, PostgreSQL, Vue.js, Docker">
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=tmrzdmurod&show_icons=true&theme=default&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tmrzdmurod&layout=compact&hide_border=true)
 
-| Area | Skills |
-| --- | --- |
-| Language and platform | C#, .NET, object-oriented programming |
-| Backend | ASP.NET Core Web API, REST API, JWT authentication and authorization |
-| Data | Entity Framework Core, PostgreSQL |
-| Frontend | Vue.js |
-| Practices and tooling | SOLID, clean code principles, Docker |
+## Current Focus
 
-## Projects
+- Status: third-year student, aiming for a junior DevOps engineer role
+- Learning: Linux administration, Docker, Grafana, networking, CI/CD basics
+- Interests: monitoring, automation, system reliability
+- Languages: Russian, Tajik, English (basic) [update your real levels]
 
-### ☀️ Solar Panel Installation Website
-A website for a solar panel installation company. It presents the company's services, with a focus on a clear user interface and an easy way for customers to get in touch.
-
-### 📚 Electronic Library of the Department
-An electronic library for the Department of Programming and Information Systems. It organizes study materials, documents and information for students and staff.
-
-## Get in touch
+## Let's Connect
 
 - Telegram: [@temurzadee](https://t.me/temurzadee)
-- Email: [tmrzdmurod@gmail.com](mailto:tmrzdmurod@gmail.com)
-- GitHub: [github.com/tmrzdmurod](https://github.com/tmrzdmurod)
+- Email: tmrzdmurod@gmail.com
+
+*Understand the system, not just the tools running on it.*
