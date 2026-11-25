@@ -1,209 +1,222 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080D12,50:102A2A,100:064E3B&height=200&section=header&text=MUROD%20TEMURZODA&fontSize=48&fontColor=00FF9C&fontAlignY=40&animation=fadeIn&desc=DEVOPS%20%7C%20LINUX%20%7C%20INFRASTRUCTURE&descSize=15&descColor=8B949E&descAlignY=65" width="100%" />
-
-<a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=900&color=00FF9C&center=true&vCenter=true&width=800&height=60&lines=%24+whoami+%E2%86%92+DevOps+Engineer;%24+uname+-s+%E2%86%92+Linux+Enthusiast;%24+docker+ps+%E2%86%92+Containerization;%24+git+status+%E2%86%92+Always+improving" alt="Terminal Animation" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:101923,45:1C3042,100:34495E&height=210&section=header&text=MUROD%20TEMURZODA&fontSize=48&fontColor=E8EDF2&fontAlignY=40&animation=fadeIn&desc=DEVOPS%20ENGINEERING%20%7C%20INFRASTRUCTURE%20%7C%20BACKEND&descSize=13&descColor=F0AD4E&descAlignY=65" width="100%" />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=tmrzdmurod&label=VISITORS&color=00FF9C&style=flat-square)
-![Status](https://img.shields.io/badge/STATUS-OPEN_TO_INTERNSHIPS-00FF9C?style=flat-square&labelColor=101820)
-![Location](https://img.shields.io/badge/LOCATION-TAJIKISTAN-00D9C0?style=flat-square&labelColor=101820)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1200&color=F0AD4E&center=true&vCenter=true&width=750&lines=Infrastructure+is+the+foundation.;Build+reliable+systems.;Automate+the+workflow.;Understand+what+runs+under+the+hood." alt="Engineering Animation" />
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=tmrzdmurod&label=PROFILE+VIEWS&color=F0AD4E&style=flat-square)
+![Status](https://img.shields.io/badge/OPEN_TO-INTERNSHIPS-F0AD4E?style=flat-square&labelColor=17212B)
+![Location](https://img.shields.io/badge/BASED_IN-TAJIKISTAN-91A8BA?style=flat-square&labelColor=17212B)
 
 </div>
 
 ---
 
-## `01 // ABOUT ME`
+## 01. PROFILE
 
-I'm a Software Developer focused on **DevOps Engineering, Linux Systems, and Infrastructure Automation**, with a background in backend and web application development.
+### DevOps Engineering & Infrastructure
 
-I work at the intersection of software development and infrastructure, combining application development, database management, Linux environments, and deployment workflows.
+I'm a Computer Science student at Khujand Polytechnic Institute, Tajik Technical University, focused on **DevOps Engineering and Linux infrastructure**, with a background in backend and web application development.
 
-My primary direction is **DevOps Engineering** — building the skills and practical experience needed to automate, deploy, monitor, and maintain reliable software systems.
+My technical interests are centered around the systems behind software: Linux environments, infrastructure, deployment processes, automation, and reliable application operation.
 
-- `EDUCATION` — Computer Science, Khujand Polytechnic Institute
-- `PRIMARY` — DevOps & Infrastructure
-- `SECONDARY` — Backend Development
-- `SYSTEM` — Ubuntu / Linux
-- `BACKEND` — PHP / MySQL
-- `INTERESTS` — Automation, CI/CD, Cloud, Cybersecurity
+I also develop web applications, work with databases, and apply programming knowledge to practical projects.
 
-```bash
-murod@devops:~$ cat profile.txt
+**My primary direction is DevOps Engineering. Backend Development is my secondary specialization.**
 
-Name:       Murod Temurzoda
-Location:   Tajikistan
-Role:       Software Developer
-Focus:      DevOps Engineering
-Background: Backend Development
-Environment: Linux / Ubuntu
+| | |
+|:---|:---|
+| **Location** | Tajikistan |
+| **Education** | Khujand Polytechnic Institute |
+| **Primary Direction** | DevOps Engineering |
+| **Secondary Direction** | Backend Development |
+| **Operating System** | Ubuntu Linux |
+| **Interests** | Infrastructure, Automation, Cybersecurity |
 
-murod@devops:~$ echo "Building reliable systems."
-Building reliable systems.
+---
+
+## 02. TECHNICAL SKILLS
+
+### Backend Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=php,mysql&theme=dark" />
+
+</div>
+
+### Frontend Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+
+</div>
+
+### Development Environment
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ubuntu,vscode&theme=dark" />
+
+</div>
+
+---
+
+## 03. DEVOPS ENGINEERING
+
+My primary career direction is DevOps Engineering.
+
+I am developing my understanding of Linux systems and the infrastructure behind modern applications, with a focus on building a solid technical foundation.
+
+### Infrastructure Learning Roadmap
+
+| Domain | Focus |
+|:---|:---|
+| Linux | Command line and system fundamentals |
+| System Administration | Working with Linux environments |
+| Automation | Infrastructure and repetitive task automation |
+| Containers | Application containerization |
+| Version Control | Source code management |
+| Networking | Infrastructure networking fundamentals |
+| CI/CD | Automated build and deployment |
+| Cloud | Cloud infrastructure |
+| Infrastructure as Code | Infrastructure management |
+| Monitoring | System monitoring and observability |
+
+### Engineering Workflow
+
+```mermaid
+flowchart LR
+    A["01 / DEVELOPMENT"] --> B["02 / VERSION CONTROL"]
+    B --> C["03 / BUILD"]
+    C --> D["04 / DEPLOYMENT"]
+    D --> E["05 / MONITORING"]
+    E -.-> A
+
+    style A fill:#24394A,color:#FFFFFF,stroke:#F0AD4E
+    style B fill:#24394A,color:#FFFFFF,stroke:#F0AD4E
+    style C fill:#24394A,color:#FFFFFF,stroke:#F0AD4E
+    style D fill:#24394A,color:#FFFFFF,stroke:#F0AD4E
+    style E fill:#24394A,color:#FFFFFF,stroke:#F0AD4E
 ```
 
 ---
 
-## `02 // DEVOPS & INFRASTRUCTURE`
+## 04. BACKEND DEVELOPMENT
 
-<div align="center">
+Backend development is my secondary technical direction.
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+My experience includes developing web applications, implementing application logic, and working with relational databases.
 
-</div>
+**Main technologies:**
 
-### Infrastructure Focus
-
-| Area | Focus |
-|:---|:---|
-| Linux | System administration |
-| Bash | Shell scripting & automation |
-| Git | Version control |
-| Docker | Containerization |
-| Networking | Network fundamentals |
-| CI/CD | Build & deployment pipelines |
-| Cloud | Cloud infrastructure |
-| IaC | Infrastructure as Code |
-| Monitoring | System observability |
+- PHP
+- MySQL
+- SQL
+- JavaScript
+- HTML5
+- CSS3
 
 ---
 
-## `03 // BACKEND DEVELOPMENT`
+## 05. SELECTED PROJECTS
 
-Backend development is my secondary specialization. I build database-driven applications and work with server-side logic and web technologies.
+### 01 — Electronic Library
 
-<div align="center">
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-
-</div>
-
----
-
-## `04 // FEATURED PROJECTS`
-
-### 📚 Electronic Library
 **University Library Management System**
 
-A web-based platform for organizing academic resources and simplifying university library management.
+A web application designed to organize academic resources and simplify library management at a university department.
 
-- Book and academic resource management
-- Student and staff roles
-- Administrative functionality
-- Database-driven architecture
+**Key functionality:**
+- Book and academic resource management.
+- Student and staff roles.
+- Administrative functionality.
+- Database-driven resource organization.
 
-`PHP` `MySQL` `HTML` `CSS` `JavaScript`
+**Technologies:** PHP, MySQL, HTML, CSS, JavaScript.
 
-### ☀️ SolarPanel
+---
+
+### 02 — SolarPanel
+
 **Solar Energy Service Platform**
 
 A web application for a solar panel installation and service company.
 
-- Customer booking system
-- Appointment management
-- Administrative approval workflow
-- Employee task and status management
-- Database-driven functionality
+**Key functionality:**
+- Customer booking system.
+- Appointment management.
+- Administrative approval workflow.
+- Employee task and status management.
+- Database-driven functionality.
+- Customer service workflow.
 
-`PHP` `MySQL` `HTML` `CSS` `JavaScript`
-
-### 💰 Finora
-**Personal Finance Android Application — In Progress**
-
-A personal finance application for managing income, expenses, and budgets.
-
-- Income and expense tracking
-- TJS and USD currencies
-- Budget management
-- Local database storage
-- Financial overview
-
-`Kotlin` `Jetpack Compose` `Room` `SQLite`
+**Technologies:** PHP, MySQL, HTML, CSS, JavaScript.
 
 ---
 
-## `05 // DEVOPS ROADMAP`
+### 03 — Finora
 
-My engineering roadmap focuses on the complete software delivery lifecycle.
+**Personal Finance Management Application**
 
-```mermaid
-flowchart TD
-    A["🐧 Linux Administration"] --> B["⌨️ Bash & Automation"]
-    B --> C["🔀 Git & GitHub"]
-    C --> D["🐳 Docker"]
-    D --> E["🌐 Networking"]
-    E --> F["⚙️ CI/CD"]
-    F --> G["☁️ Cloud Infrastructure"]
-    G --> H["🏗️ Infrastructure as Code"]
-    H --> I["📊 Monitoring"]
-    I -.-> A
+<sub>PROJECT STATUS: PLANNED / IN DEVELOPMENT</sub>
 
-    style A fill:#064E3B,color:#00FF9C,stroke:#00FF9C
-    style D fill:#102A3A,color:#38BDF8,stroke:#38BDF8
-    style F fill:#102A3A,color:#38BDF8,stroke:#38BDF8
-    style I fill:#064E3B,color:#00FF9C,stroke:#00FF9C
-```
+A planned personal finance application focused on organizing personal income, expenses, and budgets.
+
+**Planned functionality:**
+- Income and expense tracking.
+- TJS and USD currency support.
+- Budget management.
+- Local data storage.
+- Financial statistics and overview.
 
 ---
 
-## `06 // DEVELOPMENT ENVIRONMENT`
+## 06. DEVELOPMENT ENVIRONMENT
 
 <div align="center">
 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-Workstation-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Workflow-181717?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://skillicons.dev/icons?i=ubuntu,php,mysql,html,css,js,vscode&theme=dark&perline=7" />
 
 </div>
 
 ---
 
-## `07 // GITHUB ANALYTICS`
+## 07. GITHUB ANALYTICS
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tmrzdmurod&show_icons=true&theme=transparent&hide_border=true&title_color=00FF9C&icon_color=00D9C0&text_color=8B949E&include_all_commits=true" alt="GitHub Statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=tmrzdmurod&show_icons=true&theme=transparent&hide_border=true&title_color=F0AD4E&icon_color=F0AD4E&text_color=91A8BA&include_all_commits=true" alt="GitHub Statistics" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmrzdmurod&layout=compact&theme=transparent&hide_border=true&title_color=00FF9C&text_color=8B949E" alt="Most Used Languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmrzdmurod&layout=compact&theme=transparent&hide_border=true&title_color=F0AD4E&text_color=91A8BA" alt="Most Used Languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tmrzdmurod&theme=transparent&hide_border=true&ring=00FF9C&fire=00D9C0&currStreakLabel=00FF9C&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tmrzdmurod&theme=transparent&hide_border=true&ring=F0AD4E&fire=F0AD4E&currStreakLabel=F0AD4E&sideLabels=91A8BA&dates=91A8BA" alt="GitHub Contribution Streak" />
 
 </div>
 
 ---
 
-## `08 // ENGINEERING PRINCIPLES`
+## 08. ENGINEERING PRINCIPLES
 
-```text
-[01] Understand the system before changing it.
-[02] Automate repetitive operations.
-[03] Build reliable and maintainable solutions.
-[04] Treat security as a fundamental requirement.
-[05] Learn through practical implementation.
-[06] Improve continuously.
-```
+| Principle | Approach |
+|:---|:---|
+| Reliability | Build systems with predictable behavior |
+| Automation | Reduce repetitive manual operations |
+| Simplicity | Prefer understandable solutions |
+| Security | Consider security throughout development |
+| Maintainability | Write structured and maintainable code |
+| Continuous Improvement | Learn, practice, and refine |
 
 ---
 
-## `09 // LANGUAGES`
+## 09. LANGUAGES
 
-| Language | Proficiency |
+| Language | Level |
 |:---|:---|
 | Tajik | Native |
 | Russian | Fluent |
@@ -212,18 +225,28 @@ flowchart TD
 
 ---
 
-## `10 // CONNECT`
+## 10. CONTACT
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-tmrzdmurod-181717?style=for-the-badge&logo=github)](https://github.com/tmrzdmurod)
-[![Telegram](https://img.shields.io/badge/Telegram-@temurzadee-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/temurzadee)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:tmrzdmurod@gmail.com)
+<a href="https://github.com/tmrzdmurod">
+<img src="https://img.shields.io/badge/GITHUB-tmrzdmurod-24394A?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<br/>
+<a href="https://t.me/temurzadee">
+<img src="https://img.shields.io/badge/TELEGRAM-@temurzadee-24394A?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:064E3B,50:102A2A,100:080D12&height=120&section=footer" width="100%" />
+<a href="mailto:tmrzdmurod@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-24394A?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-<sub>BUILD • AUTOMATE • DEPLOY • MONITOR</sub>
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:34495E,50:1C3042,100:101923&height=100&section=footer" width="100%" />
+
+**ENGINEERING • INFRASTRUCTURE • CONTINUOUS IMPROVEMENT**
+
+<sub>Designed by Murod Temurzoda</sub>
 
 </div>
