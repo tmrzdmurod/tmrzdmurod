@@ -7,7 +7,6 @@
 <p align="center">
   <a href="https://t.me/temurzadee"><img src="https://img.shields.io/badge/Telegram-@temurzadee-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="mailto:tmrzdmurod@gmail.com"><img src="https://img.shields.io/badge/Email-tmrzdmurod@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/tmrzdmurod"><img src="https://img.shields.io/badge/GitHub-tmrzdmurod-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
 ---
@@ -63,4 +62,3 @@ An electronic library for the Department of Programming and Information Systems.
 
 - Telegram: [@temurzadee](https://t.me/temurzadee)
 - Email: [tmrzdmurod@gmail.com](mailto:tmrzdmurod@gmail.com)
-- GitHub: [github.com/tmrzdmurod](https://github.com/tmrzdmurod)
