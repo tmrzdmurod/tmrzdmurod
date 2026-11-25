@@ -1,278 +1,184 @@
- <div align="center">
+# Hi, I'm Murod Temurzoda
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:101923,45:1C3042,100:34495E&height=210&section=header&text=MUROD%20TEMURZODA&fontSize=48&fontColor=E8EDF2&fontAlignY=40&animation=fadeIn&desc=DEVOPS%20ENGINEERING%20%7C%20INFRASTRUCTURE%20%7C%20BACKEND&descSize=13&descColor=F0AD4E&descAlignY=65" width="100%" />
+<div align="center">
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:06B6D4&height=220&section=header&text=MUROD%20TEMURZODA&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=DEVOPS%20ENGINEER%20%7C%20BACKEND%20DEVELOPMENT&descAlignY=58&descSize=17" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1200&color=F0AD4E&center=true&vCenter=true&width=750&lines=Infrastructure+is+the+foundation.;Build+reliable+systems.;Automate+the+workflow.;Understand+what+runs+under+the+hood." alt="Engineering Animation" />
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=tmrzdmurod&label=PROFILE+VIEWS&color=F0AD4E&style=flat-square)
-![Status](https://img.shields.io/badge/OPEN_TO-INTERNSHIPS-F0AD4E?style=flat-square&labelColor=17212B)
-![Location](https://img.shields.io/badge/BASED_IN-TAJIKISTAN-91A8BA?style=flat-square&labelColor=17212B)
+[![GitHub](https://img.shields.io/badge/GitHub-tmrzdmurod-181717?style=for-the-badge&logo=github)](https://github.com/tmrzdmurod)
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/temurzadee)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tmrzdmurod@gmail.com)
 
 </div>
+
+## About Me
+
+I'm a Computer Science student at **Khujand Polytechnic Institute of Tajik Technical University**.
+
+My primary professional direction is **DevOps Engineering**. I focus on infrastructure, automation, containerization, deployment pipelines, monitoring, and reliable system operations.
+
+My secondary direction is **Backend Development**, where I build database-driven web applications and server-side functionality.
+
+- Focus: DevOps Engineering & Infrastructure
+- Secondary specialization: Backend Development
+- Operating System: Ubuntu Linux
+- Interested in automation, cloud infrastructure, and scalable systems
+- Always learning, building, and improving
 
 ---
 
-## 01. PROFILE
-
-### DevOps Engineering & Infrastructure
-
-I'm a Computer Science student at Khujand Polytechnic Institute, Tajik Technical University, focused on **DevOps Engineering and Linux infrastructure**, with a background in backend and web application development.
-
-My technical interests are centered around the systems behind software: Linux environments, infrastructure, deployment processes, automation, and reliable application operation.
-
-I also develop web applications, work with databases, and apply programming knowledge to practical projects.
-
-**My primary direction is DevOps Engineering. Backend Development is my secondary specialization.**
-
-| | |
-|:---|:---|
-| **Location** | Tajikistan |
-| **Education** | Khujand Polytechnic Institute |
-| **Primary Direction** | DevOps Engineering |
-| **Secondary Direction** | Backend Development |
-| **Operating System** | Ubuntu Linux |
-| **Interests** | Infrastructure, Automation, Cybersecurity |
-
----
-
-## 02. TECHNICAL SKILLS
-
-### Backend Development
+## DevOps Engineering
 
 <div align="center">
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### Infrastructure · Automation · Deployment · Monitoring
+
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,git,github,docker,kubernetes,terraform,ansible,prometheus,grafana,nginx&perline=6" />
 
 </div>
 
-### Frontend Development
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-</div>
-
-### Development Environment
-
-<div align="center">
-
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
-
----
-
-## 03. DEVOPS ENGINEERING
-
-My primary engineering direction is **DevOps Engineering**, with a focus on Linux administration, infrastructure automation, containerization, and software delivery.
-
-I'm following a structured learning roadmap that covers the complete infrastructure lifecycle — from Linux fundamentals to cloud infrastructure, CI/CD, and monitoring.
-
-### Core Infrastructure Stack
-
-<div align="center">
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
-
-### Infrastructure Learning Roadmap
-
-| Domain | Technologies & Tools |
-|:---|:---|
-| Linux Administration | Linux, Ubuntu, Filesystem, Permissions, Processes |
-| Shell Automation | Bash, Shell Scripting |
+| Area | Technologies |
+|---|---|
+| Operating Systems | Linux, Ubuntu |
+| Scripting | Bash |
 | Version Control | Git, GitHub |
-| Containerization | Docker, Docker Compose |
-| Networking | TCP/IP, DNS, HTTP/HTTPS, Ports |
-| Web Infrastructure | Nginx, Web Servers |
-| CI/CD | GitHub Actions, Automated Pipelines |
-| Databases | PostgreSQL, MySQL |
-| Cloud Computing | Cloud Infrastructure |
+| Containers | Docker, Docker Compose |
+| CI/CD | GitHub Actions |
 | Infrastructure as Code | Terraform |
 | Configuration Management | Ansible |
-| Monitoring | Prometheus, Grafana |
 | Orchestration | Kubernetes |
-| Security | Linux Security, SSH, Infrastructure Security |
+| Web Servers | Nginx |
+| Monitoring | Prometheus, Grafana |
+| Databases | PostgreSQL, MySQL |
+| Networking | TCP/IP, DNS, HTTP/HTTPS, Ports |
+| Security | SSH, Linux and Infrastructure Security |
+| Cloud | Cloud Infrastructure |
 
-### DevOps Engineering Workflow
+### DevOps Workflow
 
 ```mermaid
 flowchart TD
-    A["01 / Linux Fundamentals"] --> B["02 / Bash Scripting"]
-    B --> C["03 / Git & GitHub"]
-    C --> D["04 / Docker & Compose"]
-    D --> E["05 / Networking & Nginx"]
-    E --> F["06 / CI/CD & GitHub Actions"]
-    F --> G["07 / PostgreSQL & Cloud"]
-    G --> H["08 / Terraform & Ansible"]
-    H --> I["09 / Prometheus & Grafana"]
-    I --> J["10 / Kubernetes & Security"]
-    J --> K["11 / Production Projects"]
+    A[Source Code] --> B[Git & GitHub]
+    B --> C[CI/CD Pipeline]
+    C --> D[Docker]
+    D --> E[Kubernetes]
+    E --> F[Infrastructure]
+    F --> G[Terraform & Ansible]
+    E --> H[Monitoring]
+    H --> I[Prometheus & Grafana]
 
-    style A fill:#24394A,color:#F0AD4E,stroke:#F0AD4E
-    style B fill:#24394A,color:#FFFFFF,stroke:#64748B
-    style C fill:#24394A,color:#FFFFFF,stroke:#64748B
-    style D fill:#24394A,color:#FFFFFF,stroke:#64748B
-    style E fill:#24394A,color:#FFFFFF,stroke:#64748B
-    style F fill:#24394A,color:#FFFFFF,stroke:#64748B
-    style G fill:#24394A,color:#FFFFFF,stroke:#64748B
-    style H fill:#24394A,color:#FFFFFF,stroke:#64748B
-    style I fill:#24394A,color:#FFFFFF,stroke:#64748B
-    style J fill:#24394A,color:#FFFFFF,stroke:#64748B
-    style K fill:#34495E,color:#F0AD4E,stroke:#F0AD4E
+    style A fill:#2563EB,color:#fff,stroke:#2563EB
+    style B fill:#7C3AED,color:#fff,stroke:#7C3AED
+    style C fill:#0891B2,color:#fff,stroke:#0891B2
+    style D fill:#2563EB,color:#fff,stroke:#2563EB
+    style E fill:#7C3AED,color:#fff,stroke:#7C3AED
+    style F fill:#0891B2,color:#fff,stroke:#0891B2
+    style G fill:#2563EB,color:#fff,stroke:#2563EB
+    style H fill:#7C3AED,color:#fff,stroke:#7C3AED
+    style I fill:#0891B2,color:#fff,stroke:#0891B2
 ```
-
-**Target:** Build, deploy, automate, secure, and monitor production-ready applications and infrastructure.
 
 ---
 
-## 04. BACKEND DEVELOPMENT
-
-Backend Development is my secondary specialization.
-
-My experience includes building database-driven web applications, implementing server-side functionality, and working with relational databases.
-
-### Backend Technologies
+## Backend Development
 
 <div align="center">
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://skillicons.dev/icons?i=php,mysql,html,css,javascript&perline=5" />
 
 </div>
 
-### Development Areas
+My secondary technical direction is backend and web application development.
 
-- Server-side application logic.
-- Relational database design and SQL queries.
-- CRUD operations and data management.
-- User roles and access management.
-- Application architecture.
-- Database-driven web applications.
-- Backend and frontend integration.
+**Technologies**
 
-### Future Technical Direction
+- PHP
+- MySQL
+- JavaScript
+- HTML5
+- CSS3
 
-My long-term backend development direction includes:
+**Development Areas**
 
-- REST API development.
-- PostgreSQL database management.
-- Backend application deployment.
-- Web server configuration.
-- Docker-based application environments.
-- Integration of backend services into CI/CD pipelines.
-
-**Goal:** Understand the complete application lifecycle — from backend development to deployment and infrastructure management.
+- Server-side application logic
+- Database design and SQL queries
+- CRUD operations
+- User roles and access management
+- Database-driven applications
+- Frontend and backend integration
+- Application structure and functionality
 
 ---
 
-## 05. SELECTED PROJECTS
+## Featured Projects
 
-### 01 — Electronic Library
+### 1. Electronic Library
 
-**University Library Management System**
+A web-based library management system developed for an academic department.
 
-A web application designed to organize academic resources and simplify library management at a university department.
+**Key Features**
+- Book and educational resource management
+- Student and staff roles
+- Administrative functionality
+- Database-driven operations
 
-**Key functionality:**
-- Book and academic resource management.
-- Student and staff roles.
-- Administrative functionality.
-- Database-driven resource organization.
+**Stack:** PHP · MySQL · JavaScript · HTML · CSS
 
-**Technologies:** PHP, MySQL, HTML, CSS, JavaScript.
-
-### 02 — SolarPanel
-
-**Solar Energy Service Platform**
+### 2. SolarPanel
 
 A web application for a solar panel installation and service company.
 
-**Key functionality:**
-- Customer booking system.
-- Appointment management.
-- Administrative approval workflow.
-- Employee task and status management.
-- Database-driven functionality.
-- Customer service workflow.
+**Key Features**
+- Customer booking system
+- Appointment management
+- Administrator approval workflow
+- Employee task and status management
+- Database-driven functionality
 
-**Technologies:** PHP, MySQL, HTML, CSS, JavaScript.
+**Stack:** PHP · MySQL · JavaScript · HTML · CSS
 
-### 03 — Finora
+### 3. Finora
 
-**Personal Finance Management Application**
+<sub>IN DEVELOPMENT</sub>
 
-<sub>PROJECT STATUS: PLANNED / IN DEVELOPMENT</sub>
+A personal finance application concept focused on managing everyday finances.
 
-A planned personal finance application focused on organizing personal income, expenses, and budgets.
-
-**Planned functionality:**
-- Income and expense tracking.
-- TJS and USD currency support.
-- Budget management.
-- Local data storage.
-- Financial statistics and overview.
+**Planned Features**
+- Income and expense tracking
+- TJS and USD currencies
+- Budget management
+- Financial overview
+- Local data storage
 
 ---
 
-## 06. DEVELOPMENT ENVIRONMENT
+## Technology Overview
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ubuntu,php,mysql,html,css,js,vscode&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,git,github,docker,kubernetes,terraform,ansible,githubactions,prometheus,grafana,nginx,php,mysql,postgres,html,css,javascript,vscode&perline=5" />
 
 </div>
 
 ---
 
-## 07. GITHUB ANALYTICS
+## GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tmrzdmurod&show_icons=true&theme=transparent&hide_border=true&title_color=F0AD4E&icon_color=F0AD4E&text_color=91A8BA&include_all_commits=true" alt="GitHub Statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=tmrzdmurod&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmrzdmurod&layout=compact&theme=transparent&hide_border=true&title_color=F0AD4E&text_color=91A8BA" alt="Most Used Languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmrzdmurod&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tmrzdmurod&theme=transparent&hide_border=true&ring=F0AD4E&fire=F0AD4E&currStreakLabel=F0AD4E&sideLabels=91A8BA&dates=91A8BA" alt="GitHub Contribution Streak" />
+<img width="70%" src="https://streak-stats.demolab.com?user=tmrzdmurod&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 08. ENGINEERING PRINCIPLES
-
-| Principle | Approach |
-|:---|:---|
-| Reliability | Build systems with predictable behavior |
-| Automation | Reduce repetitive manual operations |
-| Simplicity | Prefer understandable solutions |
-| Security | Consider security throughout development |
-| Maintainability | Write structured and maintainable code |
-| Continuous Improvement | Learn, practice, and refine |
-
----
-
-## 09. LANGUAGES
+## Languages
 
 | Language | Level |
-|:---|:---|
+|---|---|
 | Tajik | Native |
 | Russian | Fluent |
 | German | B1 |
@@ -280,22 +186,16 @@ A planned personal finance application focused on organizing personal income, ex
 
 ---
 
-## 10. CONTACT
+## Connect With Me
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GITHUB-tmrzdmurod-24394A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tmrzdmurod)
+[![GitHub](https://img.shields.io/badge/GitHub-tmrzdmurod-181717?style=for-the-badge&logo=github)](https://github.com/tmrzdmurod)
 
-[![Telegram](https://img.shields.io/badge/TELEGRAM-@temurzadee-24394A?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/temurzadee)
+[![Telegram](https://img.shields.io/badge/Telegram-@temurzadee-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/temurzadee)
 
-[![Email](https://img.shields.io/badge/EMAIL-CONTACT-24394A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tmrzdmurod@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-tmrzdmurod%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tmrzdmurod@gmail.com)
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:34495E,50:1C3042,100:101923&height=100&section=footer" width="100%" />
-
-**ENGINEERING • INFRASTRUCTURE • CONTINUOUS IMPROVEMENT**
-
-<sub>Designed by Murod Temurzoda</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:7C3AED,100:2563EB&height=120&section=footer" width="100%" />
 
 </div>
