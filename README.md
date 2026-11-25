@@ -1,14 +1,22 @@
- <div align="center">
+# Murod Temurzoda | DevOps & Backend
 
-[![Capsule Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Murod%20Temurzoda&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20%7C%20Linux%20%7C%20Backend&descAlignY=58&descAlign=50)](https://github.com/tmrzdmurod)
+<div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=800&lines=DevOps+%26+Infrastructure;Linux+%E2%80%A2+Bash+%E2%80%A2+Docker+%E2%80%A2+Git;Backend+Development+%26+Automation;Building%2C+Deploying%2C+Improving." alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:2563EB,35:7C3AED,70:06B6D4,100:F97316&text=MUROD%20TEMURZODA&fontColor=FFFFFF&fontSize=44&fontAlignY=42&desc=DEVOPS%20%26%20INFRASTRUCTURE%20%7C%20BACKEND%20DEVELOPMENT&descSize=16&descAlignY=62&animation=fadeIn" />
+
+<a href="https://github.com/tmrzdmurod">
+<img src="https://img.shields.io/badge/GitHub-tmrzdmurod-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://t.me/temurzadee">
+<img src="https://img.shields.io/badge/Telegram-Contact-06B6D4?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+<a href="mailto:tmrzdmurod@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-F97316?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-![Visitors](https://komarev.com/ghpvc/?username=tmrzdmurod&label=Profile+views&color=00ff9c&style=flat-square)
-![Status](https://img.shields.io/badge/Status-Open%20to%20Internships-00C853?style=flat-square)
-![Location](https://img.shields.io/badge/Location-Tajikistan-blue?style=flat-square)
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=DevOps+%26+Infrastructure;Linux+%E2%80%A2+Bash+%E2%80%A2+Docker+%E2%80%A2+Git;Backend+Development+%26+Automation;Building%2C+Deploying%2C+Improving" alt="Typing SVG" />
 
 </div>
 
@@ -68,12 +76,9 @@ My primary engineering direction is DevOps: understanding Linux environments, ap
 
 <div align="center">
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,git,github,docker,kubernetes,terraform,ansible&perline=5" />
+
+<img src="https://skillicons.dev/icons?i=githubactions,nginx,prometheus,grafana,aws&perline=5" />
 
 </div>
 
@@ -97,25 +102,32 @@ Backend development is my secondary specialization. I work with server-side logi
 
 <div align="center">
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+<img src="https://skillicons.dev/icons?i=php,mysql,sqlite,html,css,javascript&perline=6" />
 
 </div>
 
 ### Additional Technologies
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,linux&perline=4" />
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/PORTFOLIO-3%20PROJECTS-2563EB?style=for-the-badge&labelColor=172554" />
+<img src="https://img.shields.io/badge/WEB-APPLICATIONS-7C3AED?style=for-the-badge&labelColor=2E1065" />
+<img src="https://img.shields.io/badge/DATABASE-DRIVEN-0891B2?style=for-the-badge&labelColor=164E63" />
+
+</div>
+
 ### 📚 Electronic Library
+
 **University Library Management System**
 
 A web-based platform designed to organize academic resources and simplify university library management.
@@ -125,9 +137,18 @@ A web-based platform designed to organize academic resources and simplify univer
 - Administrative functionality.
 - Database-driven architecture.
 
-**Technologies:** PHP, MySQL, HTML, CSS, JavaScript.
+<div align="left">
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+
+</div>
 
 ### ☀️ SolarPanel
+
 **Solar Energy Service Platform**
 
 A web application for a solar panel installation and service company.
@@ -138,9 +159,18 @@ A web application for a solar panel installation and service company.
 - Employee task and status management.
 - Database-driven functionality.
 
-**Technologies:** PHP, MySQL, HTML, CSS, JavaScript.
+<div align="left">
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+
+</div>
 
 ### 💰 Finora
+
 **Personal Finance Android Application — In Progress**
 
 A personal finance application designed to simplify income, expense, and budget management.
@@ -151,7 +181,11 @@ A personal finance application designed to simplify income, expense, and budget 
 - Local database storage.
 - Financial overview.
 
-**Technologies:** Kotlin, Jetpack Compose, Room, SQLite.
+<div align="left">
+
+<img src="https://img.shields.io/badge/IN%20PROGRESS-F97316?style=flat-square&labelColor=431407" />
+
+</div>
 
 ---
 
@@ -170,6 +204,16 @@ graph TD
     G --> H[Infrastructure as Code]
     H --> I[Monitoring & Observability]
     I -.-> A
+
+    style A fill:#2563EB,color:#fff,stroke:#60A5FA
+    style B fill:#7C3AED,color:#fff,stroke:#A78BFA
+    style C fill:#0891B2,color:#fff,stroke:#22D3EE
+    style D fill:#2563EB,color:#fff,stroke:#60A5FA
+    style E fill:#7C3AED,color:#fff,stroke:#A78BFA
+    style F fill:#0891B2,color:#fff,stroke:#22D3EE
+    style G fill:#2563EB,color:#fff,stroke:#60A5FA
+    style H fill:#7C3AED,color:#fff,stroke:#A78BFA
+    style I fill:#0891B2,color:#fff,stroke:#22D3EE
 ```
 
 ---
@@ -178,9 +222,13 @@ graph TD
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tmrzdmurod&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tmrzdmurod&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmrzdmurod&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmrzdmurod&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=tmrzdmurod&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -199,10 +247,16 @@ graph TD
 
 ## 🌍 Languages
 
-- Tajik — Native
-- Russian — Fluent
-- German — B1
-- English — A2
+<div align="center">
+
+| Language | Level |
+|:---:|:---:|
+| Tajik | Native |
+| Russian | Fluent |
+| German | B1 |
+| English | A2 |
+
+</div>
 
 ---
 
@@ -210,18 +264,26 @@ graph TD
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-tmrzdmurod-181717?style=for-the-badge&logo=github)](https://github.com/tmrzdmurod)
-[![Telegram](https://img.shields.io/badge/Telegram-@temurzadee-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/temurzadee)
-[![Email](https://img.shields.io/badge/Email-tmrzdmurod@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tmrzdmurod@gmail.com)
+<a href="https://github.com/tmrzdmurod">
+<img src="https://img.shields.io/badge/GitHub-tmrzdmurod-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://t.me/temurzadee">
+<img src="https://img.shields.io/badge/Telegram-@temurzadee-06B6D4?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+
+<a href="mailto:tmrzdmurod@gmail.com">
+<img src="https://img.shields.io/badge/Email-tmrzdmurod%40gmail.com-F97316?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="Footer" />
-</p>
+<div align="center">
 
-<p align="center">
-  <i>"Build it. Deploy it. Understand it. Improve it."</i>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:06B6D4&height=130&section=footer" alt="Footer" />
+
+<i>"Build it. Deploy it. Understand it. Improve it."</i>
+
+</div>
